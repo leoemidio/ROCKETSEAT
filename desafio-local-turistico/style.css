@@ -1,0 +1,17 @@
+body{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  font-style: italic;
+  text-transform: ;
+}
+body h1,
+body h3{
+  text-align: left;
+  text-transform: capitalize,
+}
+body p{
+  text-align: left;
+
+}
